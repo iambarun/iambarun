@@ -9,4 +9,4 @@ I am Barun Bhatttacharjee, a software professional, currently based out of Banga
 - 📫 How to reach me: online only.
 - ⚡ Fun fact: When you will play online game with me, you can have a nioce object to practice your head shots.
 
-[![Barun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarun&hide=issues&count_private=true&show_icons=true&theme=calm)]
+![Barun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarun&hide=issues&count_private=true&show_icons=true&theme=calm)
